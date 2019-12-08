@@ -9,8 +9,7 @@ $banner= "\033[1;31m╔═══════════════════
 ╚════════════════════════════════════════════════╝
      \033[1;31m  ╔╗╔╔═╗╔╦╗  ╔═╗╔═╗╦═╗  ╔═╗╔═╗╦  ╔═╗
        ║║║║ ║ ║   ╠╣ ║ ║╠╦╝  ╚═╗╠═╣║  ║╣ 
-       ╝╚╝╚═╝ ╩   ╚  ╚═╝╩╚═  ╚═╝╩ ╩╩═╝╚═╝
-                                 \033[0;38m『BOT.TERMUX』
+       ╝╚╝╚═╝ ╩   ╚  ╚═╝╩╚═  ╚═╝╩ ╩╩═╝╚═╝                                 
 \033[1;32m╔════════════════════════════════════════════════╗
 \033[1;32m║Di produksi oleh : TEAM 8                       ║
 \033[1;32m║Di import oleh   : ALL MEMBER TEAM 8            ║
@@ -20,7 +19,7 @@ $banner= "\033[1;31m╔═══════════════════
 \033[1;32m╚════════════════════════════════════════════════╝
 ";
 
-$bot_scash="JCX-@JzYW5kaSI6ImhNGTdHBzO+%wvXC9wYXNNGTZWJpbi5jb21cL3Jhd1wvMjdFWjVxMFUiLCJ1cGRhdGVfc2FuZGkiOiJodHRwczpcL1wvb2NrbGVzLmNvbVwvdFdpR2JPVXhBTTVLaHJJTj+%6IZ&NGTFV8";
+$bot_scash="JCX-@JzYW5kaSI6ImhNGTdHBzO+%wvXC9wYXNNGTZWJpbi5jb21cL3Jhd1wvMjdFWjVxMFUiLCJ1cGRhdGVfc2FuZGkiOiJodHRwczpcL1wvZHVpdC5jY1wvYUJrdDAifQFV8FV8";
 
 
 ?>
